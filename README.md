@@ -3,7 +3,7 @@ Screenshots are coming soon...
 This is my own version for Astro's VS Code theme
 # Installation
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Astro Theme by Lexington`**
+2. Search for **`Astro Theme`** by Unwrapped
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
  **Astro Theme**
