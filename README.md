@@ -1,10 +1,12 @@
-# *Bushland theme for VS Code.
+# *Astro tTheme for VS Code.
+
+This is my own version for Astro's VS Code theme
 # Installation
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Bushland`**
+2. Search for **`Astro Theme by Lexington`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **Bushland**
+ **Astro Theme**
 ## Personal Settings.
 ```js
 {
@@ -104,7 +106,8 @@ To **disable** italics, add this snippet to your `settings.json`:
   },
 },
 ```
-Bushland Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
+I am not affiliated with Astro team, nor is it endorsed by or sponsored by this one. A side project by Michael Andreuzza and is crafted in Åland Islands, Finland.
+*Astro Theme* Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
 [Twitter](https://twitter.com/Mike_Andreuzza)
 # bushland
 # astro-theme
