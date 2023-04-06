@@ -1,8 +1,5 @@
 # Astro Theme for VS Code.
 Screenshots are coming soon...
-
-
-
 This is my own version for Astro's VS Code theme
 # Installation
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
