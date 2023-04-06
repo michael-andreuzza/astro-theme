@@ -1,4 +1,7 @@
-# *Astro tTheme for VS Code.
+# Astro Theme for VS Code.
+Screenshots are coming soon...
+
+
 
 This is my own version for Astro's VS Code theme
 # Installation
