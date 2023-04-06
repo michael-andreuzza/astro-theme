@@ -1,0 +1,41 @@
+{
+    "name": "astro-lexington",
+    "displayName": "Astro Lexinton",
+    "description": "My own version of Astro Build theme",
+    "publisher": "wicked-labs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michael-andreuzza/bushland.git"
+    },
+    "bugs": {
+        "url": "https://github.com/michael-andreuzza/bushland.git",
+        "email": "michael@andreuzza.com"
+    },
+    "icon": "logo/theme-icon.png",
+    "galleryBanner": {
+        "color": "#3E433E",
+        "theme": "dark"
+    },
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.72.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "michael andreuzza",
+        "bush",
+        "green",
+        "orange"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bushland",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bushland.json"
+            }
+        ]
+    }
+}
