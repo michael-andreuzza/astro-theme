@@ -29,7 +29,7 @@ To **disable** italics, add this snippet to your `settings.json`:
   - if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Bushland]": {
+  "[Astro Theme]": {
     "textMateRules": [
       {
         "scope": [
