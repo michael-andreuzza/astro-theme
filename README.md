@@ -3,10 +3,10 @@ Screenshots are coming soon...
 This is my own version for Astro's VS Code theme
 # Installation
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Astro Dark`** by Unwrapped
+2. Search for **`Astro by Mike`** by Unwrapped
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **Astro Theme**
+ **Astro by Mike**
 ## Personal Settings.
 ```js
 {
@@ -54,7 +54,7 @@ To **disable** italics, add this snippet to your `settings.json`:
   - if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Astro Dark]": {
+  "[Astro by Mike]": {
     "textMateRules": [
       {
         "scope": [

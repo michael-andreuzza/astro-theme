@@ -1,6 +1,6 @@
 {
     "name": "astro-theme",
-    "displayName": "Astro Dark",
+    "displayName": "Astro by Mike",
     "description": "My own version of Astro Build theme",
     "publisher": "wicked-labs",
     "repository": {
@@ -16,7 +16,7 @@
         "color": "#ffffff",
         "theme": "light"
     },
-    "version": "0.8.0",
+    "version": "0.9.0",
     "engines": {
         "vscode": "^1.72.0"
     },
