@@ -16,7 +16,7 @@
         "color": "#0f1014",
         "theme": "dark"
     },
-    "version": "0.5.0",
+    "version": "0.6.0",
     "engines": {
         "vscode": "^1.72.0"
     },
@@ -32,6 +32,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "astro-theme",
+                "uiTheme": "vs",
+                "path": "./themes/light.json"
+            }
+            ,{
                 "label": "astro-theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark.json"

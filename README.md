@@ -24,16 +24,28 @@ This is my own version for Astro's VS Code theme
 }
 ```
 ## Screenshots
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/astro.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/css.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/html.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/cpp.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/cs.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/java.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/js.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/md.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/py.png)
-![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/sh.png)
+Dark
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/astro.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/css.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/html.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/cpp.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/cs.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/java.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/js.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/md.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/py.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/dark/sh.png)
+Light
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/astro.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/css.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/html.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/cpp.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/cs.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/java.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/js.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/md.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/py.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/light/sh.png)
 
 
 The theme uses italics for certain language tokens by default.
