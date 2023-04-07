@@ -24,16 +24,17 @@ This is my own version for Astro's VS Code theme
 }
 ```
 ## Screenshots
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-css.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-html.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-java.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-js.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-md.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-py.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-terminal.png?)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/astro.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/css.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/html.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/cpp.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/cs.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/java.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/js.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/md.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/py.png)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/astro-theme/master/screenshots/sh.png)
+
 
 The theme uses italics for certain language tokens by default.
 To **disable** italics, add this snippet to your `settings.json`:
