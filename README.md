@@ -3,7 +3,7 @@ Screenshots are coming soon...
 This is my own version for Astro's VS Code theme
 # Installation
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Astro Theme`** by Unwrapped
+2. Search for **`Astro Dark`** by Unwrapped
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
  **Astro Theme**
@@ -23,13 +23,25 @@ This is my own version for Astro's VS Code theme
   "editor.renderWhitespace": "all",
 }
 ```
+## Screenshots
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-cs.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-css.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-html.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-java.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-js.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-md.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-py.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-sh.png?raw=true)
+![VS Code Marketplace](https://github.com/astro-theme/astro-theme/blob/master/midnight-screenshots/midnight-terminal.png?)
+
 The theme uses italics for certain language tokens by default.
 To **disable** italics, add this snippet to your `settings.json`:
   - quotes and *italic* strings (like in markdown) will be unaffected and still be italic
   - if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Astro Theme]": {
+  "[Astro Dark]": {
     "textMateRules": [
       {
         "scope": [
@@ -109,5 +121,5 @@ To **disable** italics, add this snippet to your `settings.json`:
 I am not affiliated with Astro team, nor is it endorsed by or sponsored by this one. A side project by Michael Andreuzza and is crafted in Åland Islands, Finland.
 *Astro Theme* Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
 [Twitter](https://twitter.com/Mike_Andreuzza)
-# bushland
+# Astro Dark
 # astro-theme
